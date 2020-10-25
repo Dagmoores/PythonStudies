@@ -1,5 +1,3 @@
-## I'm in doubt about this exercise:
-
     def __init__(self, nome, dataAdmissao, salario):
         self.nome = nome
         self.dataAdmissao = dataAdmissao
@@ -12,12 +10,4 @@
         self.salario = salario
     def get(self):
         return self.nome, self.dataAdmissao, self.salario
-        
-## Console:
-        
-f = Funcionario ('nome nome', 'alguma data', 2000)
-
-## Why??:
-
-  File "<input>", line 1, in <module>
-NameError: name 'Funcionario' is not defined
+       
