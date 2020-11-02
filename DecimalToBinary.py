@@ -1,4 +1,4 @@
-##This Program will help you pro transform decimal into binary numbers
+##This Program will help you yo transform decimal numbers into binary numbers
 
 class Pilha():
     def __init__ (self):
