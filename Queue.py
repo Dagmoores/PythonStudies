@@ -1,3 +1,5 @@
+# I'm using this file to learn about the creation and manipulation of queues in Python
+
 class Fila():
     def __init__(self):
         self.data = []
