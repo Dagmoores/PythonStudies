@@ -1,3 +1,5 @@
+#Retirado do livro Introdução à Computação em Python - Um Foco no Desenolvimento de Aplicações - PERKOVIC, Ljubomir
+
 #Traduza estas instruções condicionais em instruções if do Python:
 
 #(a)Se idade é maior que 62, exiba 'Você pode obter benefícios de pensão'. 
