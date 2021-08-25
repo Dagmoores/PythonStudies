@@ -8,7 +8,5 @@ fahrenheit_input = input('Qual é a temperatura em Fahrenheit? ')
 
 fahrenheit_input = eval(fahrenheit_input)
 
-
-
-celsius = 5/9(fahrenheit_input -32)
+celsius = 5/9 * (fahrenheit_input -32)
 print('A temperatura em Celsius é ', celsius)
