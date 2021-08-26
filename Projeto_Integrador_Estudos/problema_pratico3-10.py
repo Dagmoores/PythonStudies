@@ -5,14 +5,11 @@
 def negativos(input_list):
 
   if type(input_list) == type(list()):
-
     for i in input_list:
-      x = eval(i)
-      if type(x) == type(int()):
-        if i < 0:
-          print(i)
+      if i < 0:
+        print(i)
 
   else:
     print('Você deve digitar um tipo list')
 
-negativos([10, -4, -2, "-1"])
+negativos([10, -4, -2, -1])
