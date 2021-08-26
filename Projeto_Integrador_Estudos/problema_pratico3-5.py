@@ -5,5 +5,5 @@
 lista_palavras = eval(input('Digite uma lista de palavras \n'))
 
 for i in lista_palavras:
-  if len(lista_palavras[i]) == 4
-    print(lista_palavras[i])
+  if len(i) == 4:
+    print(i)
